@@ -1,3 +1,2 @@
 class MySet:
-
-    pass
+    def __init__(self, list =[])
